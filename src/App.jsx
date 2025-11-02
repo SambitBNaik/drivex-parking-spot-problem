@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import ParkingSpot from "./components/ParkingSpot";
 import "./styles.css";
+import ParkingSpot from "./Components/ParkingSpot";
 
 const App = () => {
   const generateInitialSpots = () => [
